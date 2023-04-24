@@ -5,6 +5,7 @@
 
 - 🎓 Im Student at 1337 Med-Tétouan.
 - 😁 Im Interested in robot, Ia, WebDev.
+- 🖼 I love to draw anything
 - 👁 mailbox: You can reach me with the links below
 
 
