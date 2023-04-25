@@ -8,6 +8,9 @@
 - 🖼 I love to draw anything
 - 👁 mailbox: You can reach me with the links below
 
+<a href="https://www.instagram.com/b.r.m_1"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/mester.ayoub.92351" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="mailto:bmayoub151@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 
 ##### Languages I use
 
@@ -17,11 +20,7 @@
 
 ##### Some of my favorite open source projects
 
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
-<a href="https://www.instagram.com/b.r.m_1"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mester.ayoub.92351" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="mailto:bmayoub151@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgsr1w0a001108l5cu9r5asi/stats?cursusId=21&coalitionId=281" alt="abouram's 42 stats" /></a>
 
