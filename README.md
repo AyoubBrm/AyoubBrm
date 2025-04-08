@@ -22,6 +22,6 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
-[![<abouram>'s 42 stats](https://badge.mediaplus.ma/binary/abouram)](https://github.com/oakoudad/badge42)
+[![<user>'s 42 stats](https://badge.mediaplus.ma/binary/abouram)](https://github.com/oakoudad/badge42)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
